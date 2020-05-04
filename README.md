@@ -1,4 +1,4 @@
-# Windows Terminal Logo Theme
+# Windows Terminal Logo Profiles
 Easy to identify.
 
 ### CMD:
@@ -37,8 +37,8 @@ Easy to identify.
 ![SteamCMD](https://user-images.githubusercontent.com/8389962/80925812-69200000-8dc5-11ea-853c-2ed7736aad5a.png)
 
 ## How to install?
-1. Click "Clone or download" on the right, and then click "Download ZIP" to download "Windows-Terminal-Logo-Theme-master.zip".
-2. Unzip "Windows-Terminal-Logo-Theme-master.zip" to "%USERPROFILE%\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\RoamingState" path, as shown in the figure ↓
+1. Click "Clone or download" on the right, and then click "Download ZIP" to download "Windows-Terminal-Logo-Profiles-master.zip".
+2. Unzip "Windows-Terminal-Logo-Profiles-master.zip" to "%USERPROFILE%\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\RoamingState" path, as shown in the figure ↓
 ![where](https://user-images.githubusercontent.com/8389962/80925935-5c4fdc00-8dc6-11ea-91d0-01195e75c341.png)
 3. Refer "settings-sample.json" to modify your "settings.json" under "%USERPROFILE%\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState".
 4. enjoy.
