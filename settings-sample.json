@@ -85,9 +85,16 @@
             {
                 "guid": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
                 "backgroundImage" : "ms-appdata:///roaming/Powershell/Powershell7-320.png",
-                "background" : "#330e49",
                 "hidden": false,
                 "name": "PowerShell",
+                "source": "Windows.Terminal.PowershellCore"
+            },
+            {
+                "guid": "{2595cd9c-8f05-55ff-a1d4-93f3041ca67f}",
+                "backgroundImage" : "ms-appdata:///roaming/Powershell/Powershell7-preview-320.png",
+                "background" : "#330e49",
+                "hidden": false,
+                "name": "PowerShell Preview",
                 "source": "Windows.Terminal.PowershellCore"
             },
             {
